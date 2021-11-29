@@ -1,13 +1,13 @@
 ### Hi there 👋
 Here is TanaStudy，一名努力学习的小🌿🐶。
 
-## contact me 📫 
+## Contact me 📫 
 - CSDN：[TanaStudy的博客](https://blog.csdn.net/weixin_43901865?spm=1001.2100.3001.5343)
 - QQ：851901870
 
 
 ## Project 📃
-- 🔥🔥🔥🔥🔥 [Java-Study](https://github.com/TanaStudy/Java-Study)：Java学习过程中的的代码记录。Java基础、Spring、SpringBoot、分布式项目、小Demo等等等等等Java相关的知识🚀。
+- 🔥🔥🔥🔥🔥 [Java-Study](https://github.com/TanaStudy/Java-Study)：Java学习过程中的的代码记录。Java基础、Spring、SpringBoot、分布式项目、常见Demo等等等等等Java相关的知识🚀。
 - 🔥🔥🔥🔥🔥 [CS-Book](https://github.com/TanaStudy/CS-Book)：计算机类优质的书籍收藏📚。
 
 ## Star⭐
